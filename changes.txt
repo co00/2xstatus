@@ -1,0 +1,21 @@
+https://2xstatus.000webhostapp.com/
+Username : 2xstatus
+Password : sandip@9825
+
+Database : id16235351_db
+Username : id16235351_user
+Password : aVvK}S0yU6daqO2>
+
+Firebase Cloud Messing
+================================
+
+Firebase Server Key : 
+
+=> AAAAboQgu_s:APA91bF2I4kde8NPTgu8ySXC_JLcLyVyx1WUoNs4pQC1ASJrrkcoFd7wzhngaEnIRAN4CvkMCeqNokOEtbxwEii7TBnCuaM8oCUEpKY7fKSMImlZVRdNzLJRpxVoDX6b6EWDBEulKag9
+
+Firebase Sender ID : 
+=> 474663140347
+
+onesignal :
+ONESIGNAL APP ID : 526dda30-db20-47b8-bc9c-ae32ac01101f
+REST API KEY : ZjdkNzFlNTYtZTg3OC00Zjk4LWI0MzItNTc2YjY0NjVjNzA4

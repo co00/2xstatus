@@ -1,0 +1,42 @@
+Cost of App
+================
+------------------------------------
+-> 	1500 	| Playstore Console
+-> 	700 	| Web Hosting
+-> 	1000 	| Ads Running
+------------------------------------
+Total : 3200
+
+____________________________________
+
+-------- App Develop Point ---------
+____________________________________ 
+
+Ok -> Remove Landcape Icon
+Ok -> Sidebar
+	- Status Saver
+	- Privacy policy
+	- Rate 5 star
+	- Feedback 
+	- Share App
+
+Ok -> Banner Ads Custome
+Ok -> Download Complate Video Ads load every 3 download (Facebook,Admob)
+Ok -> Video View then Video ads load every 10 views (Facebook,Admob)
+OK-> Topbar  - Status Saver
+
+-> Search Activity (is cooming soon)
+	- Popular 
+	- Trending
+-> Topbar - Search Button
+	
+-> Home Video Load in 30 items - with Server Side
+-> Related Video Load 10 Items - with Server Side
+-> Category Video Load 20 Items - with Server Side
+
+---------------------------------------------------
+-> Sidebar
+	- Status Saver - Click Button open status saver activity
+	- Privacy Policy - Click button open webview page in privacy policy page
+	- Rate 5 star - Click button open play store link
+	- Share App - Click button open multi share app link

@@ -1,0 +1,57 @@
+Testing Device : 1b6ed7d1-15d5-47d8-885d-bv40a529f3d6
+
+Splash Screen
+	-> Login wih in Google 
+	-> Check Update
+		-> Yes 
+		-> No
+			-> Get Setting Call  and Main Activity
+
+
+
+
+-> Home Screen
+	
+	-> Custome Ads 
+		-> Banner Ads 
+		-> Video Ads
+		
+
+---------------------------------------------------------------------------
+-> Check_update
+
+	- response
+	- status
+	- version_code
+
+
+-> Setting
+	
+	POST : 
+		- android_id
+		- uid
+    	- name
+		- email
+    	- mobile
+    	- photoUrl
+
+    GET : 
+
+    	- share_content
+    	- facebook_ads_status
+    	- admob_ads_status
+    	- app_open_ads_status
+    	- item_ads_count
+    	- swipe_ads_count
+    	- download_ads_
+    	- status_download_ads_count
+    	- subscription
+
+
+-> Like User
+	
+	POST : 
+		- uid
+    	- video_id
+		- email
+    	- video_type

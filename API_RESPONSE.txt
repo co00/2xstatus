@@ -1,0 +1,23 @@
+
+Check_update
+.................................................
+URL : http://localhost/2xstatus/version_13/Check_update
+
+Method : GET
+Response : 
+	
+		response : true
+		status : 1
+		version_code : 13
+
+
+
+Like_user
+.................................................
+URL : http://localhost/2xstatus/version_13/Like_user
+
+Method : POST
+Response : 
+	
+		response : success
+		msg : 'liked video'
